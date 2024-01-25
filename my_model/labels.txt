@@ -1,0 +1,9 @@
+Swiping Down
+Swiping Up
+Swiping Left
+Swiping Right
+Pushing Hand Away
+Pulling Hand In
+Turning Hand Clockwise
+Turning Hand Counterclockwise
+No gesture
